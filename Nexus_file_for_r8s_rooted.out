@@ -1,0 +1,120 @@
+Reading tree BY
+Executing blformat command...
+Branch lengths assumed to be in units of numbers of substitutions per site
+Number of sites in sequences set to 331658
+All branch lengths multipled by the 331658 sites in the sequence
+Branch lengths rounded to nearest integer
+(This may not be a good idea when using CALIBRATE on ultrametric user supplied input trees. Use ROUND=NO then)
+Defining clade name: Asco
+Defining clade name: Euro
+Defining clade name: Dothid
+Setting minimum age constraint for taxon Asco to 438.000000
+Setting maximum age constraint for taxon Asco to 449.000000
+Setting minimum age constraint for taxon Euro to 376.270000
+Setting minimum age constraint for taxon Dothid to 350.140000
+Begin cross-validation analyses...
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+
+.....................................................................
+
+CV Results for smoothing = 1.000000:
+Pruned taxon	Sq		ChiSq		Result
+  Sacce1	361166179.90	 2993.69	Good
+ ASTRTRM	1559127209.54	16737.49	Good
+   EURHE	7731716.99	  241.21	Good
+    Afum	60217505.39	 1750.71	Good
+  NAJM01	4782882.82	  144.68	Good
+  AFPA01	4589411.57	  152.35	Good
+    PV07	499353.67	   16.87	Good
+  NOXB01	173201601.35	 2861.11	Good
+   B0A51	4154891.96	  793.12	Good
+   B0A48	13454687.86	 1637.81	Good
+CCFEE531	21944.72	    1.19	Good
+   B0A55	34561677.47	 1614.81	Good
+  NAJL01	32763458.04	  961.23	Good
+  MUNK01	30092340.14	  885.52	Good
+  Schpo1	7657673515.24	55576.52	Good
+********************************************************************************
+
+Results of cross validation analysis for tree BY
+Method = Penalized Likelihood
+
+log10
+smooth	smooth		Sq Error	Chi Square Error
+--------------------------------------------------------------------------------
+  0.00	     1		9944038376.66	86368.32	(Good)
+********************************************************************************
+
+Optimum:   0.00	     1		9944038376.66	86368.32
+********************************************************************************
+
+[Printing tree 1]
+
+[TREE DESCRIPTION of tree BY]
+
+tree BY = ((((((EURHE:178.999781,Afum:178.999781):197.270219,((AFPA01:156.733029,PV07:156.733029):21.045211,NAJM01:177.778240):198.491760)Euro:3.344591,ASTRTRM:379.614591):8.299609,(((B0A51:37.216220,B0A48:37.216220):262.252706,NOXB01:299.468926):50.671074,((CCFEE5311:114.695219,B0A55:114.695219):179.344568,(NAJL01:197.158024,MUNK01:197.158024):96.881763):56.100213)Dothid:37.774200):25.503729,Sacce1:413.417928):35.582072,Schpo1:449.000000)Asco;
+-----------------------------------------------------------------------------------------
+Estimated ages and substitution rates for tree BY
+
+Reconstruction method: Penalized likelihood
+Named internal nodes indicated by [*]
+Rates are for branches subtending indicated node
+Rates are in units of substitutions per site per unit time
+
+				  Constraints				Rates
+	Node	   Fix [Mod]	  Min	  Max	  Age		Estimated	Local
+-----------------------------------------------------------------------------------------
+ [*]  Asco	       [0] 	 438.00	 449.00	 449.00		
+     (2)	       [0] 	   --      --	 413.42		9.2527e-04	4.2605e-03
+     (4)	       [0] 	   --      --	 387.91		8.0990e-04	4.2511e-03
+     (5)	       [0] 	   --      --	 379.61		6.6039e-04	2.6981e-03
+ [*]  Euro	       [0] 	 376.27	   --	 376.27		5.9276e-04	2.7442e-03
+     (8)	       [0] 	   --      --	 179.00		5.2077e-04	4.5598e-04
+      EURHE	     * [0] 	   --      --	   0.00		5.1120e-04	4.9309e-04
+      Afum	     * [0] 	   --      --	   0.00		4.9534e-04	4.4867e-04
+     (11)	       [0] 	   --      --	 177.78		5.7881e-04	5.6506e-04
+     (13)	       [0] 	   --      --	 156.73		5.6601e-04	5.3927e-04
+      AFPA01	     * [0] 	   --      --	   0.00		5.5777e-04	5.3830e-04
+      PV07	     * [0] 	   --      --	   0.00		5.6295e-04	5.5568e-04
+      NAJM01	     * [0] 	   --      --	   0.00		5.8477e-04	5.9776e-04
+      ASTRTRM	     * [0] 	   --      --	   0.00		5.3991e-04	4.2625e-04
+ [*]  Dothid	       [0] 	 350.14	   --	 350.14		6.8066e-04	2.0841e-03
+     (17)	       [0] 	   --      --	 299.47		5.6852e-04	4.5735e-04
+     (19)	       [0] 	   --      --	  37.22		5.1357e-04	4.5166e-04
+      B0A51	     * [0] 	   --      --	   0.00		5.2096e-04	5.8956e-04
+      B0A48	     * [0] 	   --      --	   0.00		4.9889e-04	3.6839e-04
+      NOXB01	     * [0] 	   --      --	   0.00		5.2626e-04	4.7700e-04
+     (22)	       [0] 	   --      --	 294.04		5.4615e-04	4.2207e-04
+     (23)	       [0] 	   --      --	 114.70		4.9032e-04	4.2967e-04
+      CCFEE531	     * [0] 	   --      --	   0.00		4.9010e-04	4.8949e-04
+      B0A55	     * [0] 	   --      --	   0.00		4.6814e-04	4.0810e-04
+     (26)	       [0] 	   --      --	 197.16		4.8670e-04	4.2326e-04
+      NAJL01	     * [0] 	   --      --	   0.00		4.6607e-04	4.3373e-04
+      MUNK01	     * [0] 	   --      --	   0.00		4.6690e-04	4.3581e-04
+      Sacce1	     * [0] 	   --      --	   0.00		8.4729e-04	7.4127e-04
+      Schpo1	     * [0] 	   --      --	   0.00		4.0272e-04	3.3763e-04
+-----------------------------------------------------------------------------------------
+
+Summary of rate variation (substitutions per site per unit time)
+  Mean    = 0.0005671
+  Std Dev = 0.0001197
+  Min     = 0.0004027
+  Max     = 0.0009253
+  Range   = 0.0005226
+  Ratio   =  2.298
+
+r8s>

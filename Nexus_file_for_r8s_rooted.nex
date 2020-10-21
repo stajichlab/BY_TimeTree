@@ -1,0 +1,38 @@
+#nexus
+
+begin trees;
+tree BY = ((Sacce1:0.30645284899999997,((ASTRTRM:0.16181136900000004,((EURHE:0.088263863,Afum:0.08031142699999999):0.08995225499999998,(NAJM01:0.106268531,(AFPA01:0.08436951599999998,PV07:0.08709292899999999):0.011348731):0.11215922900000003):0.009178273999999986):0.022393247999999977,((NOXB01:0.14284687700000004,(B0A51:0.021939966000000033,B0A48:0.01370927700000002):0.118450577):0.023174216999999997,((CCFEE5311:0.05614300900000002,B0A55:0.046808344):0.077057826,(NAJL01:0.08551177699999996,MUNK01:0.08592275599999999):0.041005844000000014):0.023678440999999995):0.07872488100000002):0.10841934199999997):0.151595969,Schpo1:0.15159596900000005);
+End;
+
+Begin r8s;
+blformat lengths=persite nsites=331658;
+[**
+ **Sacce1 - Saccharomyces_cerevisiae
+ **Schpo1 - Schizosaccharomyces_pombe
+ **Afum - Aspergillus_fumigatus_Af293
+ **EURHE - Aspergillus_ruber_CBS_135680
+ **PV07 - Cladophialophora_immunda_CBS_83496
+ **AFPA01 - Exophiala_dermatitidis_NIH.UT8656
+ **NAJM01 - Exophiala_mesophila_CCFEE6314
+ **ASTRTRM - Acarospora_strigata_TRM_02.24.10-24
+ **B0A48 - Rachicladosporium_antarcticum_CCFEE_5527
+ **B0A51 - Rachicladosporium_monterosium_CCFEE_5018
+ **NOXB01 - Cladosporium_cladosporioides_TYU
+ **NAJL01 - Hortaea_thailandica_CCFEE6315
+ **MUNK01 - Hortaea_werneckii_EXF-2000-UCR
+ **CCFEE5311 - Friedmanniomyces_endolithicus_CCFEE_5311
+ **B0A55 - Friedmanniomyces_simplex_CCFEE_5184
+**]
+mrca Asco B0A55 Schpo1;
+mrca Euro EURHE NAJM01;
+mrca Dothid B0A48 CCFEE5311;
+constrain taxon=Asco min_age=438 max_age=449; #Saccharomycotina
+constrain taxon=Euro min_age=376.27; #Eurotiomycetes
+constrain taxon=Dothid min_age=350.14; #Dothideomycetes
+set checkGradient=yes;
+divtime method=PL algorithm=TN CROSSV=yes;
+describe plot=chrono_description;
+showage;
+End;
+
+quit;
