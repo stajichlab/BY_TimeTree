@@ -4,7 +4,7 @@ library(tidyverse)
 library(RColorBrewer)
 library(ggtree)
 library(deeptime)
-BYTree <- read.tree("BY_r8s.tre")
+BYTree <- read.tree("Friedmannomyces.r8s.LONG.tre")
 BYTree$root.time <- 485
 p = ggtree(BYTree,branch.length="TREE",
            position = position_nudge(x =-1 * BYTree$root.time)) +
