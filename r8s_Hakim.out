@@ -1,0 +1,350 @@
+Reading tree BY
+Executing blformat command...
+Branch lengths assumed to be in units of numbers of substitutions per site
+Number of sites in sequences set to 350351
+All branch lengths multipled by the 350351 sites in the sequence
+Branch lengths rounded to nearest integer
+(This may not be a good idea when using CALIBRATE on ultrametric user supplied input trees. Use ROUND=NO then)
+Defining clade name: Asco
+Defining clade name: Euro
+Defining clade name: Dothid
+Setting minimum age constraint for taxon Asco to 438.000000
+Setting maximum age constraint for taxon Asco to 449.000000
+Setting minimum age constraint for taxon Euro to 376.270000
+Setting minimum age constraint for taxon Dothid to 350.140000
+Begin cross-validation analyses...
++
++
++
++
++
++
++
++
++
++
++
++
+
+.....................................................................
+
+CV Results for smoothing = 1.000000:
+Pruned taxon	Sq		ChiSq		Result
+  schPom	34653691783.80	96726.42	Good
+  acaStr	19793971055.50	82619.10	Good
+  aspFum	487422619.95	 7392.51	Good
+  aspRub	7021662.32	  127.20	Good
+  claCla	293392841.19	 2857.42	Good
+  claImm	2479750.41	   49.24	Good
+  exoDer	132217853.63	 2336.76	Good
+friEnd53	3219650.13	  406.25	Good
+friEnd53	90095.93	   12.59	Good
+friSim51	1573595178.99	26865.28	Good
+  horWer	25470026880.29	112612.37	Good
+  sacCer	18029139351.69	64410.86	Good
++
++
++
++
++
++
++
++
++
++
++
++
+
+.....................................................................
+
+CV Results for smoothing = 3.162278:
+Pruned taxon	Sq		ChiSq		Result
+  schPom	16857983894.03	55830.70	Good
+  acaStr	16727351800.72	73293.49	Good
+  aspFum	649718823.32	 9369.15	Good
+  aspRub	544428.84	    9.29	Good
+  claCla	475575381.94	 4429.86	Good
+  claImm	1182994.73	   22.31	Good
+  exoDer	199144648.73	 3364.22	Good
+friEnd53	4368986.13	  531.43	Good
+friEnd53	327901.82	   44.14	Good
+friSim51	1839819741.31	29771.45	Good
+  horWer	22407340350.41	103607.31	Good
+  sacCer	32826984550.44	140889.06	Good
++
++
++
++
++
++
++
++
++
++
++
++
+
+.....................................................................
+
+CV Results for smoothing = 10.000000:
+Pruned taxon	Sq		ChiSq		Result
+  schPom	11077224094.77	39938.31	Good
+  acaStr	16854126818.43	73691.02	Good
+  aspFum	804239467.39	11136.56	Good
+  aspRub	10908520.03	  178.38	Good
+  claCla	727218793.03	 6463.25	Good
+  claImm	18546716.19	  329.78	Good
+  exoDer	305043035.47	 4876.91	Good
+friEnd53	4981255.44	  595.64	Good
+friEnd53	492505.84	   65.17	Good
+friSim51	2027691313.09	31714.94	Good
+  horWer	21497925373.58	100833.27	Good
+  sacCer	39898376870.21	186062.61	Good
++
++
++
++
++
++
++
++
++
++
++
++
+
+.....................................................................
+
+CV Results for smoothing = 31.622777:
+Pruned taxon	Sq		ChiSq		Result
+  schPom	9305804359.61	34648.60	Good
+  acaStr	17219690500.06	74831.19	Good
+  aspFum	883989014.79	12012.52	Good
+  aspRub	20109560.44	  322.61	Good
+  claCla	879804517.98	 7636.50	Good
+  claImm	36924158.62	  636.52	Good
+  exoDer	373616937.10	 5800.41	Good
+friEnd53	5228957.74	  621.19	Good
+friEnd53	564910.35	   74.26	Good
+friSim51	2113553908.89	32577.16	Good
+  horWer	21325281947.05	100301.03	Good
+  sacCer	42566786898.35	204782.11	Good
++
++
++
++
++
++
++
++
++
++
++
++
+
+.....................................................................
+
+CV Results for smoothing = 100.000000:
+Pruned taxon	Sq		ChiSq		Result
+  schPom	8759616407.26	32967.72	Good
+  acaStr	17387612791.41	75351.92	Good
+  aspFum	914065831.45	12337.15	Good
+  aspRub	24114316.95	  384.23	Good
+  claCla	941267424.02	 8098.38	Good
+  claImm	45665703.19	  778.07	Good
+  exoDer	401943457.41	 6171.26	Good
+friEnd53	5316123.16	  630.12	Good
+friEnd53	591102.52	   77.52	Good
+friSim51	2145285920.76	32891.94	Good
+  horWer	21295713155.95	100209.69	Good
+  sacCer	43467589584.97	211323.49	Good
++
++
++
++
++
++
++
++
++
++
++
++
+
+.....................................................................
+
+CV Results for smoothing = 316.227766:
+Pruned taxon	Sq		ChiSq		Result
+  schPom	8588715877.73	32436.53	Good
+  acaStr	17446919362.23	75535.38	Good
+  aspFum	924143897.29	12445.25	Good
+  aspRub	25515858.77	  405.65	Good
+  claCla	962345237.20	 8255.46	Good
+  claImm	48823490.69	  828.64	Good
+  exoDer	411740680.00	 6298.19	Good
+friEnd53	5344752.22	  633.05	Good
+friEnd53	599788.36	   78.60	Good
+friSim51	2155890431.47	32996.69	Good
+  horWer	21289584926.32	100190.76	Good
+  sacCer	43758758491.74	213462.50	Good
++
++
++
++
++
++
++
++
++
++
++
++
+
+.....................................................................
+
+CV Results for smoothing = 1000.000000:
+Pruned taxon	Sq		ChiSq		Result
+  schPom	8534870065.81	32268.63	Good
+  acaStr	17466361123.06	75595.47	Good
+  aspFum	927390790.31	12480.01	Good
+  aspRub	25973625.20	  412.63	Good
+  claCla	969187709.00	 8306.32	Good
+  claImm	49865413.29	  845.25	Good
+  exoDer	414929766.19	 6339.37	Good
+friEnd53	5353930.89	  633.99	Good
+friEnd53	602577.70	   78.95	Good
+friSim51	2159305878.52	33030.38	Good
+  horWer	21287995495.30	100185.84	Good
+  sacCer	43851475087.10	214146.18	Good
++
++
++
++
++
++
++
++
++
++
++
++
+
+.....................................................................
+
+CV Results for smoothing = 3162.277660:
+Pruned taxon	Sq		ChiSq		Result
+  schPom	8517865362.85	32215.55	Good
+  acaStr	17472528127.50	75614.53	Good
+  aspFum	928423854.50	12491.06	Good
+  aspRub	26119780.13	  414.86	Good
+  claCla	971368803.79	 8322.51	Good
+  claImm	50199187.36	  850.57	Good
+  exoDer	415947156.89	 6352.49	Good
+friEnd53	5356830.56	  634.28	Good
+friEnd53	603464.61	   79.06	Good
+friSim51	2160391658.57	33041.08	Good
+  horWer	21287535555.45	100184.42	Good
+  sacCer	43880890235.36	214363.33	Good
+********************************************************************************
+
+Results of cross validation analysis for tree BY
+Method = Penalized Likelihood
+
+log10
+smooth	smooth		Sq Error	Chi Square Error
+--------------------------------------------------------------------------------
+  0.00	     1		100446268723.84	396416.01	(Good)
+  0.50	   3.2		91990343502.42	421162.42	(Good)
+  1.00	    10		93226774763.47	455885.83	(Good)
+  1.50	    32		94731355670.97	474244.09	(Good)
+  2.00	 1e+02		95388781819.06	481221.50	(Good)
+  2.50	3.2e+02		95618382794.02	483566.71	(Good)
+  3.00	 1e+03		95693311462.37	484323.02	(Good)
+  3.50	3.2e+03		95717230017.56	484563.77	(Good)
+********************************************************************************
+
+Optimum:   0.00	     1		100446268723.84	396416.01
+********************************************************************************
+
+[Printing tree 1]
+
+[CHRONOGRAM of tree BY]
+                +-------aspFum
+            +---+9
+   +--------+8  +-------aspRub
+   |        |
+   +Euro    +-----------claCla
+   |
+   |             +------claImm
+  ++5------------+13
+  ||             +------exoDer
+  ||
+  |+--------------------acaStr
+ ++4
+ ||                   +-friEnd5311
+ ||                +--+18
+ ||  +-------------+17+-friEnd534
+++3  |             |
+||+--+Dothid       +----friSim5184
+||   |
++Asco+------------------horWer
+||
+|+----------------------sacCer
+|
++-----------------------schPom
+
+[Printing tree 1]
+
+[TREE DESCRIPTION of tree BY]
+
+tree BY = (((((((aspFum:119.274478,aspRub:119.274478):80.403054,claCla:199.677532):176.592468,(claImm:105.911719,exoDer:105.911719):270.358281)Euro:7.130655,acaStr:383.400655):7.683993,(((friEnd5311:14.496385,friEnd534:14.496385):55.451341,friSim5184:69.947726):280.192274,horWer:350.140000)Dothid:40.944649):27.822937,sacCer:418.907586):30.092414,schPom:449.000000)Asco;
+[Printing tree 1]
+
+[TREE DESCRIPTION of tree BY]
+
+tree BY = (((((((aspFum:119.274478,aspRub:119.274478):80.403054,claCla:199.677532):176.592468,(claImm:105.911719,exoDer:105.911719):270.358281)Euro:7.130655,acaStr:383.400655):7.683993,(((friEnd5311:14.496385,friEnd534:14.496385):55.451341,friSim5184:69.947726):280.192274,horWer:350.140000)Dothid:40.944649):27.822937,sacCer:418.907586):30.092414,schPom:449.000000)Asco;
+-----------------------------------------------------------------------------------------
+Estimated ages and substitution rates for tree BY
+
+Reconstruction method: Penalized likelihood
+Named internal nodes indicated by [*]
+Rates are for branches subtending indicated node
+Rates are in units of substitutions per site per unit time
+
+				  Constraints				Rates
+	Node	   Fix [Mod]	  Min	  Max	  Age		Estimated	Local
+-----------------------------------------------------------------------------------------
+ [*]  Asco	       [0] 	 438.00	 449.00	 449.00		
+     (3)	       [0] 	   --      --	 418.91		1.3948e-03	1.6325e-02
+     (4)	       [0] 	   --      --	 391.08		1.3947e-03	1.6325e-02
+     (5)	       [0] 	   --      --	 383.40		1.3945e-03	1.0272e-02
+ [*]  Euro	       [0] 	 376.27	   --	 376.27		1.3945e-03	1.0930e-02
+     (8)	       [0] 	   --      --	 199.68		1.3944e-03	8.6799e-04
+     (9)	       [0] 	   --      --	 119.27		1.3944e-03	1.0395e-03
+      aspFum	     * [0] 	   --      --	   0.00		1.3944e-03	1.0495e-03
+      aspRub	     * [0] 	   --      --	   0.00		1.3944e-03	1.3844e-03
+      claCla	     * [0] 	   --      --	   0.00		1.3944e-03	1.2229e-03
+     (13)	       [0] 	   --      --	 105.91		1.3945e-03	1.2201e-03
+      claImm	     * [0] 	   --      --	   0.00		1.3945e-03	1.3996e-03
+      exoDer	     * [0] 	   --      --	   0.00		1.3945e-03	1.2150e-03
+      acaStr	     * [0] 	   --      --	   0.00		1.3945e-03	7.3620e-04
+ [*]  Dothid	       [0] 	 350.14	   --	 350.14		1.3946e-03	7.4471e-03
+     (17)	       [0] 	   --      --	  69.95		1.3945e-03	5.3963e-04
+     (18)	       [0] 	   --      --	  14.50		1.3945e-03	1.1626e-03
+      friEnd53	     * [0] 	   --      --	   0.00		1.3945e-03	1.2072e-03
+      friEnd53	     * [0] 	   --      --	   0.00		1.3945e-03	1.3499e-03
+      friSim51	     * [0] 	   --      --	   0.00		1.3944e-03	7.7144e-04
+      horWer	     * [0] 	   --      --	   0.00		1.3945e-03	5.4276e-04
+      sacCer	     * [0] 	   --      --	   0.00		1.7325e-03	2.8221e-03
+      schPom	     * [0] 	   --      --	   0.00		1.3946e-03	1.0941e-03
+-----------------------------------------------------------------------------------------
+
+Summary of rate variation (substitutions per site per unit time)
+  Mean    = 0.00141
+  Std Dev = 7.206e-05
+  Min     = 0.001394
+  Max     = 0.001732
+  Range   = 0.0003381
+  Ratio   =  1.242
+
+r8s>

@@ -1,0 +1,48 @@
+#nexus
+
+begin trees;
+tree BY = (schPom:0.49125,(((acaStr:0.28226,(((aspFum:0.12518,aspRub:0.16512):0.08358,
+claCla:0.24418):0.15328,(claImm:0.14823,exoDer:0.12868):0.32986):0.07794):0.07893,
+(((friEnd5311:0.01750,friEnd534:0.01957):0.06447,friSim5184:0.05396):0.1512,
+horWer:0.19004):0.30492):0.45420,sacCer:1.18219):0.49125);
+End;
+
+Begin r8s;
+blformat lengths=persite nsites=350351;
+[**
+ **Sacce1 - Saccharomyces_cerevisiae
+ **Schpo1 - Schizosaccharomyces_pombe
+ **Afum - Aspergillus_fumigatus_Af293
+ **EURHE - Aspergillus_ruber_CBS_135680
+ **PV07 - Cladophialophora_immunda_CBS_83496
+ **AFPA01 - Exophiala_dermatitidis_NIH.UT8656
+ **NAJM01 - Exophiala_mesophila_CCFEE6314
+ **ASTRTRM - Acarospora_strigata_TRM_02.24.10-24
+ **B0A48 - Rachicladosporium_antarcticum_CCFEE_5527
+ **B0A51 - Rachicladosporium_monterosium_CCFEE_5018
+ **NOXB01 - Cladosporium_cladosporioides_TYU
+ **NAJL01 - Hortaea_thailandica_CCFEE6315
+ **MUNK01 - Hortaea_werneckii_EXF-2000-UCR
+ **CCFEE5311 - Friedmanniomyces_endolithicus_CCFEE_5311
+ **B0A55 - Friedmanniomyces_simplex_CCFEE_5184
+**]
+mrca Asco schPom sacCer;
+mrca Euro claImm aspRub;
+mrca Dothid friEnd5311 horWer;
+constrain taxon=Asco min_age=438 max_age=449; #Saccharomycotina
+constrain taxon=Euro min_age=376.27; #Eurotiomycetes
+constrain taxon=Dothid min_age=350.14; #Dothideomycetes
+set checkGradient=yes;
+
+divtime method=pl algorithm=tn cvStart=0 cvInc=0.5 cvNum=8 crossv=yes;
+describe plot=chronogram;
+describe plot=tree_description;
+
+[** divtime method=PL algorithm=TN CROSSV=yes; 
+**]
+describe plot=chrono_description;
+showage;
+End;
+
+quit
+quit
