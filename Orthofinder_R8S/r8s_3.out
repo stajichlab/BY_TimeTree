@@ -1,0 +1,1439 @@
+Reading tree BY
+Executing blformat command...
+Branch lengths assumed to be in units of numbers of substitutions per site
+Number of sites in sequences set to 350351
+All branch lengths multipled by the 350351 sites in the sequence
+Branch lengths rounded to nearest integer
+(This may not be a good idea when using CALIBRATE on ultrametric user supplied input trees. Use ROUND=NO then)
+********************* WARNING **********************
+
+BAD MRCA COMMAND: Taxon name misspelled or not on tree
+
+****************************************************
+********************* WARNING **********************
+
+BAD MRCA COMMAND: Taxon name misspelled or not on tree
+
+****************************************************
+********************* WARNING **********************
+
+BAD MRCA COMMAND: Taxon name misspelled or not on tree
+
+****************************************************
+********************* WARNING **********************
+
+Cannot assign a constraint to a node that is fixed
+Use UNFIXAGE on this node
+
+****************************************************
+********************* WARNING **********************
+
+Cannot assign a constraint to a node that is fixed
+Use UNFIXAGE on this node
+
+****************************************************
+********************* WARNING **********************
+
+Cannot assign a constraint to a node that is fixed
+Use UNFIXAGE on this node
+
+****************************************************
+Begin cross-validation analyses...
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+
+.....................................................................
+
+CV Results for smoothing = 1.000000:
+Pruned taxon	Sq		ChiSq		Result
+Saccharo	    0.00	    0.00	Failed
+Yarrowia	    0.00	    0.00	Failed
+Fusarium	    0.00	    0.00	Failed
+Magnapor	    0.00	    0.00	Failed
+Neurospo	    0.00	    0.00	Failed
+Cladospo	    0.00	    0.00	Failed
+Rachicla	    0.00	    0.00	Failed
+Hortaea_	    0.00	    0.00	Failed
+Friedman	    0.00	    0.00	Failed
+Friedman	    0.00	    0.00	Failed
+Exophial	    0.00	    0.00	Failed
+Exophial	    0.00	    0.00	Failed
+Cladophi	    0.00	    0.00	Failed
+Aspergil	    0.00	    0.00	Failed
+Aspergil	    0.00	    0.00	Failed
+** Note that 15 failed prunings occurred **
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+
+.....................................................................
+
+CV Results for smoothing = 3.162278:
+Pruned taxon	Sq		ChiSq		Result
+Saccharo	    0.00	    0.00	Failed
+Yarrowia	    0.00	    0.00	Failed
+Fusarium	    0.00	    0.00	Failed
+Magnapor	    0.00	    0.00	Failed
+Neurospo	    0.00	    0.00	Failed
+Cladospo	    0.00	    0.00	Failed
+Rachicla	    0.00	    0.00	Failed
+Hortaea_	    0.00	    0.00	Failed
+Friedman	    0.00	    0.00	Failed
+Friedman	    0.00	    0.00	Failed
+Exophial	    0.00	    0.00	Failed
+Exophial	    0.00	    0.00	Failed
+Cladophi	    0.00	    0.00	Failed
+Aspergil	    0.00	    0.00	Failed
+Aspergil	    0.00	    0.00	Failed
+** Note that 15 failed prunings occurred **
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+
+.....................................................................
+
+CV Results for smoothing = 10.000000:
+Pruned taxon	Sq		ChiSq		Result
+Saccharo	    0.00	    0.00	Failed
+Yarrowia	    0.00	    0.00	Failed
+Fusarium	    0.00	    0.00	Failed
+Magnapor	    0.00	    0.00	Failed
+Neurospo	    0.00	    0.00	Failed
+Cladospo	    0.00	    0.00	Failed
+Rachicla	    0.00	    0.00	Failed
+Hortaea_	    0.00	    0.00	Failed
+Friedman	    0.00	    0.00	Failed
+Friedman	    0.00	    0.00	Failed
+Exophial	    0.00	    0.00	Failed
+Exophial	    0.00	    0.00	Failed
+Cladophi	    0.00	    0.00	Failed
+Aspergil	    0.00	    0.00	Failed
+Aspergil	    0.00	    0.00	Failed
+** Note that 15 failed prunings occurred **
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+
+.....................................................................
+
+CV Results for smoothing = 31.622777:
+Pruned taxon	Sq		ChiSq		Result
+Saccharo	    0.00	    0.00	Failed
+Yarrowia	    0.00	    0.00	Failed
+Fusarium	    0.00	    0.00	Failed
+Magnapor	    0.00	    0.00	Failed
+Neurospo	    0.00	    0.00	Failed
+Cladospo	    0.00	    0.00	Failed
+Rachicla	    0.00	    0.00	Failed
+Hortaea_	    0.00	    0.00	Failed
+Friedman	    0.00	    0.00	Failed
+Friedman	    0.00	    0.00	Failed
+Exophial	    0.00	    0.00	Failed
+Exophial	    0.00	    0.00	Failed
+Cladophi	    0.00	    0.00	Failed
+Aspergil	    0.00	    0.00	Failed
+Aspergil	    0.00	    0.00	Failed
+** Note that 15 failed prunings occurred **
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+
+.....................................................................
+
+CV Results for smoothing = 100.000000:
+Pruned taxon	Sq		ChiSq		Result
+Saccharo	    0.00	    0.00	Failed
+Yarrowia	    0.00	    0.00	Failed
+Fusarium	    0.00	    0.00	Failed
+Magnapor	    0.00	    0.00	Failed
+Neurospo	    0.00	    0.00	Failed
+Cladospo	    0.00	    0.00	Failed
+Rachicla	    0.00	    0.00	Failed
+Hortaea_	    0.00	    0.00	Failed
+Friedman	    0.00	    0.00	Failed
+Friedman	    0.00	    0.00	Failed
+Exophial	    0.00	    0.00	Failed
+Exophial	    0.00	    0.00	Failed
+Cladophi	    0.00	    0.00	Failed
+Aspergil	    0.00	    0.00	Failed
+Aspergil	    0.00	    0.00	Failed
+** Note that 15 failed prunings occurred **
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+
+.....................................................................
+
+CV Results for smoothing = 316.227766:
+Pruned taxon	Sq		ChiSq		Result
+Saccharo	    0.00	    0.00	Failed
+Yarrowia	    0.00	    0.00	Failed
+Fusarium	    0.00	    0.00	Failed
+Magnapor	    0.00	    0.00	Failed
+Neurospo	    0.00	    0.00	Failed
+Cladospo	    0.00	    0.00	Failed
+Rachicla	    0.00	    0.00	Failed
+Hortaea_	    0.00	    0.00	Failed
+Friedman	    0.00	    0.00	Failed
+Friedman	    0.00	    0.00	Failed
+Exophial	    0.00	    0.00	Failed
+Exophial	    0.00	    0.00	Failed
+Cladophi	    0.00	    0.00	Failed
+Aspergil	    0.00	    0.00	Failed
+Aspergil	    0.00	    0.00	Failed
+** Note that 15 failed prunings occurred **
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+
+.....................................................................
+
+CV Results for smoothing = 1000.000000:
+Pruned taxon	Sq		ChiSq		Result
+Saccharo	    0.00	    0.00	Failed
+Yarrowia	    0.00	    0.00	Failed
+Fusarium	    0.00	    0.00	Failed
+Magnapor	    0.00	    0.00	Failed
+Neurospo	    0.00	    0.00	Failed
+Cladospo	    0.00	    0.00	Failed
+Rachicla	    0.00	    0.00	Failed
+Hortaea_	    0.00	    0.00	Failed
+Friedman	    0.00	    0.00	Failed
+Friedman	    0.00	    0.00	Failed
+Exophial	    0.00	    0.00	Failed
+Exophial	    0.00	    0.00	Failed
+Cladophi	    0.00	    0.00	Failed
+Aspergil	    0.00	    0.00	Failed
+Aspergil	    0.00	    0.00	Failed
+** Note that 15 failed prunings occurred **
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+********************* WARNING **********************
+
+You are trying to estimate the age of the root
+but there is probably insufficient information
+(Try using FIXAGE or enforcing time constraints)
+...bailing on search!
+
+****************************************************
+Could not obtain a clock-based initial rate estimate in PL setup
+-
+
+.....................................................................
+
+CV Results for smoothing = 3162.277660:
+Pruned taxon	Sq		ChiSq		Result
+Saccharo	    0.00	    0.00	Failed
+Yarrowia	    0.00	    0.00	Failed
+Fusarium	    0.00	    0.00	Failed
+Magnapor	    0.00	    0.00	Failed
+Neurospo	    0.00	    0.00	Failed
+Cladospo	    0.00	    0.00	Failed
+Rachicla	    0.00	    0.00	Failed
+Hortaea_	    0.00	    0.00	Failed
+Friedman	    0.00	    0.00	Failed
+Friedman	    0.00	    0.00	Failed
+Exophial	    0.00	    0.00	Failed
+Exophial	    0.00	    0.00	Failed
+Cladophi	    0.00	    0.00	Failed
+Aspergil	    0.00	    0.00	Failed
+Aspergil	    0.00	    0.00	Failed
+** Note that 15 failed prunings occurred **
+********************************************************************************
+
+Results of cross validation analysis for tree BY
+Method = Penalized Likelihood
+
+log10
+smooth	smooth		Sq Error	Chi Square Error
+--------------------------------------------------------------------------------
+  0.00	     1		  0.00	  0.00	(Failed)
+  0.50	   3.2		  0.00	  0.00	(Failed)
+  1.00	    10		  0.00	  0.00	(Failed)
+  1.50	    32		  0.00	  0.00	(Failed)
+  2.00	 1e+02		  0.00	  0.00	(Failed)
+  2.50	3.2e+02		  0.00	  0.00	(Failed)
+  3.00	 1e+03		  0.00	  0.00	(Failed)
+  3.50	3.2e+03		  0.00	  0.00	(Failed)
+********************************************************************************
+
+Optimum:   0.00	     1		  0.00	  0.00
+WARNING: Cross validation procedure had errors: optimum may be incorrect
+********************************************************************************
+
+[Printing tree 1]
+
+[CHRONOGRAM of tree BY]
+!FATAL ERROR!********************* WARNING **********************
+
+Times do not appear to have been set on trees; try converting lengths to time
+
+****************************************************

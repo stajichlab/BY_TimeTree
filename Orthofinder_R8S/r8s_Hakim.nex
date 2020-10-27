@@ -1,11 +1,7 @@
 #nexus
 
 begin trees;
-tree BY = ((Ylip:0.7417842059999997,(((Ncra:0.3129403180000001,Mory:0.3146221055):0.0646199099,
-Fgra:0.3182015570000001):0.2557118460000001,((((AFPA01:0.1458838068999999,PV07:0.16123480970000004):0.04848921070000012,
-NAJM01:0.20333036000000004):0.3837733433999999,(EURHE:0.16834548390000004,Afum:0.12624892220000006):0.26245220189999996):0.14159520709999995,
-((NOXB01:0.27471437580000013,B0A48:0.2672060675000001):0.08468735409999972,(MUNK01:0.23551618009999986,(CCFEE5311:0.0875240171999998,
-B0A55:0.06209932989999967):0.18021695550000016):0.08800111750000017):0.3692100840999999):0.08601760299999994):0.7542405065):0.5125648834,Scer:0.5125648833999997);
+tree BY = (((Saccharomyces_cerevisiae_S288C.vR64-2-1.aa:0.710964,Yarrowia_lipolytica_CLIB122.aa:0.519923)N3:0.271423,(Fusarium_graminearum_PH-1.aa:0.286332,(Magnaporthe_oryzae_70-15.aa:0.269789,Neurospora_crassa_OR74A.aa:0.281111)N7:0.0429621)N4:0.133414)N1:0.0238917,(((Cladosporium_cladosporioides_TYU.aa:0.275765,Rachicladosporium_antarcticum_CCFEE_5527.v1.aa:0.216594)N8:0.0545389,(Hortaea_werneckii_EXF-2000-UCR.aa:0.20085,(Friedmanniomyces_simplex_CCFEE_5184.v1.aa:0.0872562,Friedmanniomyces_endolithicus_CCFEE_5311.aa:0.0932455)N12:0.123634)N9:0.0526478)N5:0.155413,((Exophiala_mesophila_CCFEE6314.aa:0.182563,(Exophiala_dermatitidis_NIH.UT8656.aa:0.147948,Cladophialophora_immunda_CBS_83496.v1.aa:0.146376)N13:0.0374853)N10:0.190209,(Aspergillus_ruber_CBS_135680.aa:0.172183,Aspergillus_fumigatus_Af293.aa:0.168802)N11:0.16548)N6:0.0652788)N2:0.0238917)N0;
 End;
 
 Begin r8s;
@@ -27,9 +23,9 @@ blformat lengths=persite nsites=350351;
  **Mory ------- Magnaporthe_oryzae_70-15
  **Fgra ------- Fusarium_graminearum_PH-1
 **]
-mrca Asco Ylip Scer;
-mrca Euro PV07 EURHE;
-mrca Dothid CCFEE5311 MUNK01;
+mrca Asco Yarrowia_lipolytica_CLIB122 Saccharomyces_cerevisiae_S288C;
+mrca Euro Exophiala_mesophila_CCFEE6314 Aspergillus_fumigatus_Af293;
+mrca Dothid Friedmanniomyces_endolithicus_CCFEE_5311 Cladosporium_cladosporioides_TYU;
 constrain taxon=Asco min_age=438 max_age=449; #Saccharomycotina
 constrain taxon=Euro min_age=376.27; #Eurotiomycetes
 constrain taxon=Dothid min_age=350.14; #Dothideomycetes
