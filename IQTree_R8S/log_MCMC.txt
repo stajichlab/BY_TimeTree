@@ -1,0 +1,1 @@
+MCMCTREE (paml version 4.9, March 2015) Friedmannomyces_Life_Paper.15_taxa.fungi_odb10.aa.fasaln

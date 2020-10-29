@@ -1,0 +1,53 @@
+---
+title: "Fast_Tree_R8S.Attempt2"
+author: "Tania Kurbessoian"
+date: "10/22/2020"
+output: pdf_document
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{R}
+library(ape)
+library(phytools)
+library(RColorBrewer)
+library(ggtree)
+library(ggplot2)
+library(devtools)
+library(deeptime)
+library(ggrepel)
+library(phangorn)
+library(tidytree)
+library(treeio)
+library(tidyverse)
+library(timetree)
+```
+
+```{R}
+#can include r8s files using treeio
+#r8s <- read.r8s("/Users/taniakurbessoian/Desktop/TimeTree/r8s_log.txt")
+#ggtree(r8s)
+
+#FastTree Documentation
+BYTree <- read.tree("r8s.TREE.LONG.tre")
+is.ultrametric(BYTree) #just wanted to check
+
+
+BYTree$root.time <- 485
+q = ggtree(BYTree) + coord_geo(xlim = c(-460,120), ylim = c(0.95,Ntip(BYTree)), neg = TRUE, expand = 5) + scale_x_continuous(breaks=seq(-460,-25,50), labels=abs(seq(-460,-25,50)))  +
+  geom_tiplab(size = 2, align=TRUE, hjust = 0.01) + geom_text2(aes(subset = !isTip, label=label)) + theme_tree2(plot.margin=margin(5, 5, 5, 5)) + labs(caption="Divergence time using R8s Using FastTree")
+revts(q)
+ggsave("FastTree.BY_TimeTree.pdf",q, width=10, height=4)
+```
+
+```{R}
+IQBY_Tree <-read.tree("Updated.r8s.ROOT.LONG.tre")
+IQBY_Tree$root.time <- 485
+q = ggtree(IQBY_Tree) + coord_geo(xlim = c(-460,120), ylim = c(0.95,Ntip(IQBY_Tree)), neg = TRUE, expand = 5) + scale_x_continuous(breaks=seq(-460,-25,50), labels=abs(seq(-460,-25,50)))  +
+  geom_tiplab(size = 2, align=TRUE, hjust = 0.01) + geom_text2(aes(subset = !isTip, label=label)) + theme_tree2(plot.margin=margin(5, 5, 5, 5)) + labs(caption="Divergence time using R8s and IQTree")
+revts(q)
+ggsave("TimeTree.r8s_IQ_Tree.pdf",revts(q), width=8, height=4)
+ggsave("r8s.iqtree.png",revts(q), width=8, height=4)
+```

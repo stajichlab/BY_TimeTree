@@ -1,0 +1,25 @@
+seed  =  -1
+seqfile  =  Friedmannomyces_Life_Paper.15_taxa.fungi_odb10.aa.fasaln
+treefile  =  Friedmannomyces_Life_Paper.15_taxa.fungi_odb10.aa.fasaln.treefile
+mcmcfile  =  mcmc.txt
+outfile  =  log_MCMC.txt
+ndata  =  2
+seqtype  =  2
+usedata  =  3
+clock  =  1
+RootAge  =  '<4.49'
+model  =  0
+alpha  =  0
+ncatG  =  5
+cleandata  =  0
+BDparas  =  1 1 0.1
+kappa_gamma  =  6  2
+alpha_gamma = 1 1
+rgene_gamma =  2 20 1
+sigma2_gamma  =  1 10 1
+finetune  =  1: .1 .1 .1 .1 .1 .1
+print  =  2
+burnin  =  2000
+sampfreq  =  10
+nsample  =  20000
+
